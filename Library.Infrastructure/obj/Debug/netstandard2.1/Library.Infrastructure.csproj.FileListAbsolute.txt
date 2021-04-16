@@ -1,0 +1,8 @@
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\bin\Debug\netstandard2.1\Library.Infrastructure.deps.json
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\bin\Debug\netstandard2.1\Library.Infrastructure.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\bin\Debug\netstandard2.1\Library.Infrastructure.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\obj\Debug\netstandard2.1\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\obj\Debug\netstandard2.1\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\obj\Debug\netstandard2.1\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\obj\Debug\netstandard2.1\Library.Infrastructure.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Infrastructure\obj\Debug\netstandard2.1\Library.Infrastructure.pdb

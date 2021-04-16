@@ -1,0 +1,16 @@
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.TestTools.deps.json
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.TestTools.dll
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.TestTools.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Entities.dll
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Infrastructure.dll
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Services.dll
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Services.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Entities.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\bin\Debug\netstandard2.1\Library.Infrastructure.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.csprojAssemblyReference.cache
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.AssemblyInfoInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.AssemblyInfo.cs
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.csproj.CoreCompileInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.csproj.CopyComplete
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.dll
+C:\Users\Klap.ir\source\repos\Library\Library.TestTools\obj\Debug\netstandard2.1\Library.TestTools.pdb

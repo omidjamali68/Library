@@ -1,0 +1,9 @@
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\bin\Debug\netstandard2.1\Library.Entities.deps.json
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\bin\Debug\netstandard2.1\Library.Entities.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\bin\Debug\netstandard2.1\Library.Entities.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.AssemblyInfoInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.AssemblyInfo.cs
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Entities\obj\Debug\netstandard2.1\Library.Entities.csprojAssemblyReference.cache

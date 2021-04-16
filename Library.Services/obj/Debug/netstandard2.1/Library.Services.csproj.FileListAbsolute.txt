@@ -1,0 +1,14 @@
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Services.deps.json
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Services.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Services.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Entities.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Infrastructure.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Entities.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Services\bin\Debug\netstandard2.1\Library.Infrastructure.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.csprojAssemblyReference.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.AssemblyInfoInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.AssemblyInfo.cs
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.csproj.CoreCompileInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.csproj.CopyComplete
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Services\obj\Debug\netstandard2.1\Library.Services.pdb

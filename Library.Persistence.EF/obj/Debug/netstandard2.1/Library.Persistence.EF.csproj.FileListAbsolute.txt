@@ -1,0 +1,16 @@
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Persistence.EF.deps.json
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Persistence.EF.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Persistence.EF.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Entities.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Infrastructure.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Services.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Entities.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Services.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\bin\Debug\netstandard2.1\Library.Infrastructure.pdb
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.csprojAssemblyReference.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.AssemblyInfoInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.AssemblyInfo.cs
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.csproj.CoreCompileInputs.cache
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.csproj.CopyComplete
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.dll
+C:\Users\Klap.ir\source\repos\Library\Library.Persistence.EF\obj\Debug\netstandard2.1\Library.Persistence.EF.pdb
